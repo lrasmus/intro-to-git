@@ -4,7 +4,3 @@
 setwd('/Users/lvr491/Development/Training/intro-to-git/')
 data <- read.csv("./data/input/magic-data.csv")
 write.csv(data, file="./data/output/magic-output.csv")
-
-# Down at the bottom
-
-# Add more comments
